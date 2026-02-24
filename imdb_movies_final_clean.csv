@@ -1,0 +1,515 @@
+Movie_Title,Genre,Rating,Votes,Popularity_Score,Region,Gross_Proxy
+The Rip,Action,6.8,75000.0,510000.0,Bollywood,510000.0
+Sinners,Action,7.5,376000.0,2820000.0,Others,2820000.0
+One Battle After Another,Action,7.8,299000.0,2332200.0,Others,2332200.0
+Mercy,Action,6.2,5900.0,36580.0,Bollywood,36580.0
+Avatar: Fire and Ash,Action,7.4,121000.0,895400.0,Bollywood,895400.0
+The Running Man,Action,6.4,71000.0,454400.0,Bollywood,454400.0
+Border 2,Action,7.7,16000.0,123200.0,Bollywood,123200.0
+F1: The Movie,Action,7.7,301000.0,2317700.0,Others,2317700.0
+The Smashing Machine,Action,6.4,59000.0,377600.0,Bollywood,377600.0
+Zootopia 2,Action,7.5,66000.0,495000.0,Bollywood,495000.0
+Dhurandhar,Action,8.5,103000.0,875500.0,Bollywood,875500.0
+Predator: Badlands,Action,7.3,89000.0,649700.0,Bollywood,649700.0
+Greenland 2: Migration,Action,5.5,7100.0,39050.0,Bollywood,39050.0
+Dust Bunny,Action,6.6,7300.0,48180.0,Bollywood,48180.0
+Tron: Ares,Action,6.2,67000.0,415400.0,Bollywood,415400.0
+No Time to Die,Action,7.3,481000.0,3511300.0,Others,3511300.0
+The Tank,Action,6.5,11000.0,71500.0,Bollywood,71500.0
+Anaconda,Action,5.9,19000.0,112100.0,Bollywood,112100.0
+Ballerina,Action,6.8,135000.0,918000.0,Bollywood,918000.0
+The Dark Knight,Action,9.1,3100000.0,28210000.0,Hollywood,28210000.0
+KPop Demon Hunters,Action,7.5,115000.0,862500.0,Bollywood,862500.0
+Inception,Action,8.8,2800000.0,24640000.000000004,Hollywood,24640000.000000004
+Superman,Action,7.1,384000.0,2726400.0,Others,2726400.0
+Jurassic World: Rebirth,Action,5.8,175000.0,1015000.0,Bollywood,1015000.0
+The Shadow's Edge,Action,7.1,7300.0,51830.0,Bollywood,51830.0
+The Naked Gun,Action,6.3,110000.0,693000.0,Bollywood,693000.0
+Greenland,Action,6.4,160000.0,1024000.0,Bollywood,1024000.0
+The Fantastic Four: First Steps,Action,6.8,240000.0,1632000.0,Others,1632000.0
+Sirat,Action,7.0,16000.0,112000.0,Bollywood,112000.0
+Avatar,Action,7.9,1500000.0,11850000.0,Hollywood,11850000.0
+Avatar: The Way of Water,Action,7.5,598000.0,4485000.0,Hollywood,4485000.0
+Tere Ishk Mein,Action,6.8,28000.0,190400.0,Bollywood,190400.0
+Mission: Impossible - The Final Reckoning,Action,7.2,213000.0,1533600.0,Others,1533600.0
+Casino Royale,Action,8.0,737000.0,5896000.0,Hollywood,5896000.0
+Caught Stealing,Action,6.9,67000.0,462300.0,Bollywood,462300.0
+Killer Whale,Action,3.6,2000.0,7200.0,Bollywood,7200.0
+The Hunger Games,Action,7.2,1100000.0,7920000.0,Hollywood,7920000.0
+The Toxic Avenger,Action,5.9,15000.0,88500.0,Bollywood,88500.0
+Zootopia,Action,8.0,619000.0,4952000.0,Hollywood,4952000.0
+Relay,Action,7.0,28000.0,196000.0,Bollywood,196000.0
+How to Train Your Dragon,Action,7.7,120000.0,924000.0,Bollywood,924000.0
+Spectre,Action,6.8,492000.0,3345600.0,Others,3345600.0
+Heat,Action,8.3,791000.0,6565300.000000001,Hollywood,6565300.000000001
+The Tomorrow War,Action,6.6,251000.0,1656600.0,Others,1656600.0
+The Rip,Drama,6.8,75000.0,510000.0,Bollywood,510000.0
+Sinners,Drama,7.5,376000.0,2820000.0,Others,2820000.0
+One Battle After Another,Drama,7.8,299000.0,2332200.0,Others,2332200.0
+The Housemaid,Drama,7.0,44000.0,308000.0,Bollywood,308000.0
+Marty Supreme,Drama,8.2,52000.0,426399.99999999994,Bollywood,426399.99999999994
+Mercy,Drama,6.2,5900.0,36580.0,Bollywood,36580.0
+Hamnet,Drama,8.1,23000.0,186300.0,Bollywood,186300.0
+Return to Silent Hill,Drama,4.2,4700.0,19740.0,Bollywood,19740.0
+Train Dreams,Drama,7.6,61000.0,463600.0,Bollywood,463600.0
+Sentimental Value,Drama,7.8,38000.0,296400.0,Bollywood,296400.0
+Frankenstein,Drama,7.5,249000.0,1867500.0,Others,1867500.0
+The Secret Agent,Drama,7.6,17000.0,129200.0,Bollywood,129200.0
+Wake Up Dead Man,Drama,7.4,193000.0,1428200.0,Bollywood,1428200.0
+Springsteen: Deliver Me from Nowhere,Drama,6.7,19000.0,127300.0,Bollywood,127300.0
+F1: The Movie,Drama,7.7,301000.0,2317700.0,Others,2317700.0
+Rental Family,Drama,7.7,22000.0,169400.0,Bollywood,169400.0
+Nuremberg,Drama,7.4,52000.0,384800.0,Bollywood,384800.0
+The Big Fake,Drama,6.6,1600.0,10560.0,Bollywood,10560.0
+The Smashing Machine,Drama,6.4,59000.0,377600.0,Bollywood,377600.0
+No Other Choice,Drama,7.6,34000.0,258400.0,Bollywood,258400.0
+Song Sung Blue,Drama,7.4,11000.0,81400.0,Bollywood,81400.0
+Heel,Drama,6.6,231.0,1524.6,Bollywood,1524.6
+Dhurandhar,Drama,8.5,103000.0,875500.0,Bollywood,875500.0
+Dust Bunny,Drama,6.6,7300.0,48180.0,Bollywood,48180.0
+If I Had Legs I'd Kick You,Drama,6.7,16000.0,107200.0,Bollywood,107200.0
+Die My Love,Drama,6.1,33000.0,201300.0,Bollywood,201300.0
+The Shawshank Redemption,Drama,9.3,3200000.0,29760000.000000004,Hollywood,29760000.000000004
+Roofman,Drama,7.0,50000.0,350000.0,Bollywood,350000.0
+The Lord of the Rings: The Fellowship of the Ring,Drama,8.9,2200000.0,19580000.0,Hollywood,19580000.0
+I Want Your Sex,Drama,6.5,58.0,377.0,Bollywood,377.0
+28 Days Later,Drama,7.5,535000.0,4012500.0,Hollywood,4012500.0
+The Tank,Drama,6.5,11000.0,71500.0,Bollywood,71500.0
+Blue Moon,Drama,6.9,12000.0,82800.0,Bollywood,82800.0
+Interstellar,Drama,8.7,2500000.0,21750000.0,Hollywood,21750000.0
+The Substance,Drama,7.2,398000.0,2865600.0,Others,2865600.0
+Jay Kelly,Drama,6.6,34000.0,224400.0,Bollywood,224400.0
+The Life of Chuck,Drama,7.3,56000.0,408800.0,Bollywood,408800.0
+It Was Just an Accident,Drama,7.5,19000.0,142500.0,Bollywood,142500.0
+The Dark Knight,Drama,9.1,3100000.0,28210000.0,Hollywood,28210000.0
+Pillion,Drama,6.8,6000.0,40800.0,Bollywood,40800.0
+Knives Out,Drama,7.9,865000.0,6833500.0,Hollywood,6833500.0
+The Shadow's Edge,Drama,7.1,7300.0,51830.0,Bollywood,51830.0
+The Testament of Ann Lee,Drama,7.1,1700.0,12070.0,Bollywood,12070.0
+Eternity,Drama,7.0,34000.0,238000.0,Bollywood,238000.0
+The Godfather,Drama,9.2,2200000.0,20240000.0,Hollywood,20240000.0
+Sirat,Drama,7.0,16000.0,112000.0,Bollywood,112000.0
+Inglourious Basterds,Drama,8.4,1800000.0,15120000.0,Hollywood,15120000.0
+Good Will Hunting,Drama,8.3,1200000.0,9960000.0,Hollywood,9960000.0
+Bugonia,Comedy,7.4,121000.0,895400.0,Bollywood,895400.0
+Wake Up Dead Man,Comedy,7.4,193000.0,1428200.0,Bollywood,1428200.0
+Rental Family,Comedy,7.7,22000.0,169400.0,Bollywood,169400.0
+No Other Choice,Comedy,7.6,34000.0,258400.0,Bollywood,258400.0
+Zootopia 2,Comedy,7.5,66000.0,495000.0,Bollywood,495000.0
+I Want Your Sex,Comedy,6.5,58.0,377.0,Bollywood,377.0
+Blue Moon,Comedy,6.9,12000.0,82800.0,Bollywood,82800.0
+Anaconda,Comedy,5.9,19000.0,112100.0,Bollywood,112100.0
+Jay Kelly,Comedy,6.6,34000.0,224400.0,Bollywood,224400.0
+Pillion,Comedy,6.8,6000.0,40800.0,Bollywood,40800.0
+Knives Out,Comedy,7.9,865000.0,6833500.0,Hollywood,6833500.0
+KPop Demon Hunters,Comedy,7.5,115000.0,862500.0,Bollywood,862500.0
+Eternity,Comedy,7.0,34000.0,238000.0,Bollywood,238000.0
+The Naked Gun,Comedy,6.3,110000.0,693000.0,Bollywood,693000.0
+Eddington,Comedy,6.6,50000.0,330000.0,Bollywood,330000.0
+Is This Thing On?,Comedy,7.1,3200.0,22720.0,Bollywood,22720.0
+The Ugly Stepsister,Comedy,7.0,36000.0,252000.0,Bollywood,252000.0
+Caught Stealing,Comedy,6.9,67000.0,462300.0,Bollywood,462300.0
+Anora,Comedy,7.4,261000.0,1931400.0,Others,1931400.0
+The Toxic Avenger,Comedy,5.9,15000.0,88500.0,Bollywood,88500.0
+Good Fortune,Comedy,6.5,32000.0,208000.0,Bollywood,208000.0
+The Wolf of Wall Street,Comedy,8.2,1800000.0,14759999.999999998,Hollywood,14759999.999999998
+The Thursday Murder Club,Comedy,6.5,79000.0,513500.0,Bollywood,513500.0
+The SpongeBob Movie: Search for SquarePants,Comedy,5.7,5800.0,33060.0,Bollywood,33060.0
+Zootopia,Comedy,8.0,619000.0,4952000.0,Hollywood,4952000.0
+How to Train Your Dragon,Comedy,7.7,120000.0,924000.0,Bollywood,924000.0
+Once Upon a Time... in Hollywood,Comedy,7.6,948000.0,7204800.0,Hollywood,7204800.0
+Glass Onion,Comedy,7.1,514000.0,3649400.0,Hollywood,3649400.0
+Dead Poets Society,Comedy,8.1,637000.0,5159700.0,Hollywood,5159700.0
+Poor Things,Comedy,7.8,384000.0,2995200.0,Others,2995200.0
+Cold Storage,Comedy,7.8,99.0,772.1999999999999,Bollywood,772.1999999999999
+Afterburn,Comedy,4.6,5600.0,25759.999999999996,Bollywood,25759.999999999996
+The Wrecking Crew,Comedy,6.6,2300.0,15180.0,Bollywood,15180.0
+Dodgeball: A True Underdog Story,Comedy,6.7,283000.0,1896100.0,Others,1896100.0
+The Phoenician Scheme,Comedy,6.6,62000.0,409200.0,Bollywood,409200.0
+Back to the Future,Comedy,8.5,1400000.0,11900000.0,Hollywood,11900000.0
+The Moment,Comedy,5.4,128.0,691.2,Bollywood,691.2
+The Ballad of Wallis Island,Comedy,7.4,19000.0,140600.0,Bollywood,140600.0
+The Roses,Comedy,6.6,49000.0,323400.0,Bollywood,323400.0
+"Sorry, Baby",Comedy,7.2,19000.0,136800.0,Bollywood,136800.0
+Twinless,Comedy,7.4,10000.0,74000.0,Bollywood,74000.0
+Materialists,Comedy,6.3,85000.0,535500.0,Bollywood,535500.0
+Mickey 17,Comedy,6.7,228000.0,1527600.0,Others,1527600.0
+"Good Luck, Have Fun, Don't Die",Comedy,7.3,561.0,4095.2999999999997,Bollywood,4095.2999999999997
+Nobody 2,Comedy,6.3,73000.0,459900.0,Bollywood,459900.0
+A Minecraft Movie,Comedy,5.6,152000.0,851200.0,Bollywood,851200.0
+Licorice Pizza,Comedy,7.1,158000.0,1121800.0,Bollywood,1121800.0
+The Worst Person in the World,Comedy,7.7,122000.0,939400.0,Bollywood,939400.0
+Code 3,Comedy,7.2,14000.0,100800.0,Bollywood,100800.0
+The Rip,Thriller,6.8,75000.0,510000.0,Bollywood,510000.0
+Sinners,Thriller,7.5,376000.0,2820000.0,Others,2820000.0
+One Battle After Another,Thriller,7.8,299000.0,2332200.0,Others,2332200.0
+The Housemaid,Thriller,7.0,44000.0,308000.0,Bollywood,308000.0
+Mercy,Thriller,6.2,5900.0,36580.0,Bollywood,36580.0
+The Secret Agent,Thriller,7.6,17000.0,129200.0,Bollywood,129200.0
+Wake Up Dead Man,Thriller,7.4,193000.0,1428200.0,Bollywood,1428200.0
+The Running Man,Thriller,6.4,71000.0,454400.0,Bollywood,454400.0
+28 Years Later,Thriller,6.6,189000.0,1247400.0,Bollywood,1247400.0
+Send Help,Thriller,7.1,496.0,3521.6,Bollywood,3521.6
+Nuremberg,Thriller,7.4,52000.0,384800.0,Bollywood,384800.0
+No Other Choice,Thriller,7.6,34000.0,258400.0,Bollywood,258400.0
+Heel,Thriller,6.6,231.0,1524.6,Bollywood,1524.6
+Dhurandhar,Thriller,8.5,103000.0,875500.0,Bollywood,875500.0
+Predator: Badlands,Thriller,7.3,89000.0,649700.0,Bollywood,649700.0
+Greenland 2: Migration,Thriller,5.5,7100.0,39050.0,Bollywood,39050.0
+Dust Bunny,Thriller,6.6,7300.0,48180.0,Bollywood,48180.0
+If I Had Legs I'd Kick You,Thriller,6.7,16000.0,107200.0,Bollywood,107200.0
+Die My Love,Thriller,6.1,33000.0,201300.0,Bollywood,201300.0
+No Time to Die,Thriller,7.3,481000.0,3511300.0,Others,3511300.0
+I Want Your Sex,Thriller,6.5,58.0,377.0,Bollywood,377.0
+28 Days Later,Thriller,7.5,535000.0,4012500.0,Hollywood,4012500.0
+The Tank,Thriller,6.5,11000.0,71500.0,Bollywood,71500.0
+It Was Just an Accident,Thriller,7.5,19000.0,142500.0,Bollywood,142500.0
+Ballerina,Thriller,6.8,135000.0,918000.0,Bollywood,918000.0
+Now You See Me: Now You Don't,Thriller,5.9,49000.0,289100.0,Bollywood,289100.0
+The Dark Knight,Thriller,9.1,3100000.0,28210000.0,Hollywood,28210000.0
+Knives Out,Thriller,7.9,865000.0,6833500.0,Hollywood,6833500.0
+Inception,Thriller,8.8,2800000.0,24640000.000000004,Hollywood,24640000.000000004
+Jurassic World: Rebirth,Thriller,5.8,175000.0,1015000.0,Bollywood,1015000.0
+The Shadow's Edge,Thriller,7.1,7300.0,51830.0,Bollywood,51830.0
+The Long Walk,Thriller,6.7,95000.0,636500.0,Bollywood,636500.0
+Greenland,Thriller,6.4,160000.0,1024000.0,Bollywood,1024000.0
+Sirat,Thriller,7.0,16000.0,112000.0,Bollywood,112000.0
+Bone Lake,Thriller,5.6,10000.0,56000.0,Bollywood,56000.0
+Parasite,Thriller,8.5,1100000.0,9350000.0,Hollywood,9350000.0
+Mission: Impossible - The Final Reckoning,Thriller,7.2,213000.0,1533600.0,Others,1533600.0
+Casino Royale,Thriller,8.0,737000.0,5896000.0,Hollywood,5896000.0
+A House of Dynamite,Thriller,6.4,107000.0,684800.0,Bollywood,684800.0
+Caught Stealing,Thriller,6.9,67000.0,462300.0,Bollywood,462300.0
+Josephine,Thriller,8.1,63.0,510.29999999999995,Bollywood,510.29999999999995
+The Prestige,Thriller,8.5,1600000.0,13600000.0,Hollywood,13600000.0
+Killer Whale,Thriller,3.6,2000.0,7200.0,Bollywood,7200.0
+Five Nights at Freddy's 2,Thriller,5.2,31000.0,161200.0,Bollywood,161200.0
+The Hunger Games,Thriller,7.2,1100000.0,7920000.0,Hollywood,7920000.0
+Se7en,Thriller,8.6,2000000.0,17200000.0,Hollywood,17200000.0
+The Thursday Murder Club,Thriller,6.5,79000.0,513500.0,Bollywood,513500.0
+The Departed,Thriller,8.5,1500000.0,12750000.0,Hollywood,12750000.0
+The Lost Bus,Thriller,6.8,45000.0,306000.0,Bollywood,306000.0
+Hamnet,Romance,8.1,23000.0,186300.0,Bollywood,186300.0
+People We Meet on Vacation,Romance,6.7,28000.0,187600.0,Bollywood,187600.0
+Roofman,Romance,7.0,50000.0,350000.0,Bollywood,350000.0
+Dracula,Romance,6.2,23000.0,142600.0,Bollywood,142600.0
+Blue Moon,Romance,6.9,12000.0,82800.0,Bollywood,82800.0
+Pillion,Romance,6.8,6000.0,40800.0,Bollywood,40800.0
+Eternity,Romance,7.0,34000.0,238000.0,Bollywood,238000.0
+Good Will Hunting,Romance,8.3,1200000.0,9960000.0,Hollywood,9960000.0
+Tere Ishk Mein,Romance,6.8,28000.0,190400.0,Bollywood,190400.0
+Together,Romance,6.7,64000.0,428800.0,Bollywood,428800.0
+Regretting You,Romance,6.0,15000.0,90000.0,Bollywood,90000.0
+Anora,Romance,7.4,261000.0,1931400.0,Others,1931400.0
+Good Fortune,Romance,6.5,32000.0,208000.0,Bollywood,208000.0
+Wicked: For Good,Romance,6.7,56000.0,375200.0,Bollywood,375200.0
+Titanic,Romance,8.0,1400000.0,11200000.0,Hollywood,11200000.0
+A Big Bold Beautiful Journey,Romance,6.0,17000.0,102000.0,Bollywood,102000.0
+Black Bag,Romance,6.7,88000.0,589600.0,Bollywood,589600.0
+Forrest Gump,Romance,8.8,2500000.0,22000000.0,Hollywood,22000000.0
+Poor Things,Romance,7.8,384000.0,2995200.0,Others,2995200.0
+Twice in a Lifetime,Romance,6.4,1700.0,10880.0,Bollywood,10880.0
+The Gorge,Romance,6.7,161000.0,1078700.0,Bollywood,1078700.0
+The Ballad of Wallis Island,Romance,7.4,19000.0,140600.0,Bollywood,140600.0
+Materialists,Romance,6.3,85000.0,535500.0,Bollywood,535500.0
+Wicked,Romance,7.3,223000.0,1627900.0,Others,1627900.0
+The Handmaiden,Romance,8.1,199000.0,1611900.0,Bollywood,1611900.0
+Licorice Pizza,Romance,7.1,158000.0,1121800.0,Bollywood,1121800.0
+The Worst Person in the World,Romance,7.7,122000.0,939400.0,Bollywood,939400.0
+Eternal Sunshine of the Spotless Mind,Romance,8.3,1200000.0,9960000.0,Hollywood,9960000.0
+The Princess Bride,Romance,8.0,481000.0,3848000.0,Others,3848000.0
+365 Days,Romance,3.3,107000.0,353100.0,Bollywood,353100.0
+Anyone But You,Romance,6.1,166000.0,1012599.9999999999,Bollywood,1012599.9999999999
+Me Before You,Romance,7.4,328000.0,2427200.0,Others,2427200.0
+Love,Romance,6.1,73000.0,445300.0,Bollywood,445300.0
+The Voyeurs,Romance,6.1,47000.0,286700.0,Bollywood,286700.0
+Chainsaw Man - The Movie: Reze Arc,Romance,8.4,43000.0,361200.0,Bollywood,361200.0
+Twilight,Romance,5.4,521000.0,2813400.0,Hollywood,2813400.0
+It Ends with Us,Romance,6.3,97000.0,611100.0,Bollywood,611100.0
+About Time,Romance,7.8,428000.0,3338400.0,Others,3338400.0
+The Notebook,Romance,7.8,678000.0,5288400.0,Hollywood,5288400.0
+Life Is Beautiful,Romance,8.6,804000.0,6914400.0,Hollywood,6914400.0
+The Sound of Music,Romance,8.1,288000.0,2332800.0,Others,2332800.0
+La La Land,Romance,8.0,749000.0,5992000.0,Hollywood,5992000.0
+Pitch Perfect,Romance,7.1,348000.0,2470800.0,Others,2470800.0
+The History of Sound,Romance,6.8,4800.0,32640.0,Bollywood,32640.0
+Wicker,Romance,8.5,48.0,408.0,Bollywood,408.0
+Pride & Prejudice,Romance,7.8,371000.0,2893800.0,Others,2893800.0
+Call Me by Your Name,Romance,7.8,354000.0,2761200.0,Others,2761200.0
+10 Things I Hate About You,Romance,7.4,441000.0,3263400.0,Others,3263400.0
+The Rip,Crime,6.8,75000.0,510000.0,Bollywood,510000.0
+One Battle After Another,Crime,7.8,299000.0,2332200.0,Others,2332200.0
+Mercy,Crime,6.2,5900.0,36580.0,Bollywood,36580.0
+Bugonia,Crime,7.4,121000.0,895400.0,Bollywood,895400.0
+The Secret Agent,Crime,7.6,17000.0,129200.0,Bollywood,129200.0
+Wake Up Dead Man,Crime,7.4,193000.0,1428200.0,Bollywood,1428200.0
+No Other Choice,Crime,7.6,34000.0,258400.0,Bollywood,258400.0
+Zootopia 2,Crime,7.5,66000.0,495000.0,Bollywood,495000.0
+Heel,Crime,6.6,231.0,1524.6,Bollywood,1524.6
+Dhurandhar,Crime,8.5,103000.0,875500.0,Bollywood,875500.0
+Roofman,Crime,7.0,50000.0,350000.0,Bollywood,350000.0
+It Was Just an Accident,Crime,7.5,19000.0,142500.0,Bollywood,142500.0
+Now You See Me: Now You Don't,Crime,5.9,49000.0,289100.0,Bollywood,289100.0
+The Dark Knight,Crime,9.1,3100000.0,28210000.0,Hollywood,28210000.0
+Knives Out,Crime,7.9,865000.0,6833500.0,Hollywood,6833500.0
+Kidnapped: Elizabeth Smart,Crime,6.7,2600.0,17420.0,Bollywood,17420.0
+The Shadow's Edge,Crime,7.1,7300.0,51830.0,Bollywood,51830.0
+The Naked Gun,Crime,6.3,110000.0,693000.0,Bollywood,693000.0
+The Godfather,Crime,9.2,2200000.0,20240000.0,Hollywood,20240000.0
+Pulp Fiction,Crime,8.8,2400000.0,21120000.0,Hollywood,21120000.0
+Caught Stealing,Crime,6.9,67000.0,462300.0,Bollywood,462300.0
+Josephine,Crime,8.1,63.0,510.29999999999995,Bollywood,510.29999999999995
+The Wolf of Wall Street,Crime,8.2,1800000.0,14759999.999999998,Hollywood,14759999.999999998
+Se7en,Crime,8.6,2000000.0,17200000.0,Hollywood,17200000.0
+The Thursday Murder Club,Crime,6.5,79000.0,513500.0,Bollywood,513500.0
+The Departed,Crime,8.5,1500000.0,12750000.0,Hollywood,12750000.0
+Zootopia,Crime,8.0,619000.0,4952000.0,Hollywood,4952000.0
+Fight Club,Crime,8.8,2600000.0,22880000.0,Hollywood,22880000.0
+Prisoners,Crime,8.2,917000.0,7519399.999999999,Hollywood,7519399.999999999
+Glass Onion,Crime,7.1,514000.0,3649400.0,Hollywood,3649400.0
+Heat,Crime,8.3,791000.0,6565300.000000001,Hollywood,6565300.000000001
+Cheekati Lo,Crime,6.0,6600.0,39600.0,Bollywood,39600.0
+Dead Man's Wire,Crime,7.0,1900.0,13300.0,Bollywood,13300.0
+Thunderbolts*,Crime,7.1,261000.0,1853100.0,Others,1853100.0
+The Silence of the Lambs,Crime,8.6,1700000.0,14620000.0,Hollywood,14620000.0
+The Wrecking Crew,Crime,6.6,2300.0,15180.0,Bollywood,15180.0
+The Phoenician Scheme,Crime,6.6,62000.0,409200.0,Bollywood,409200.0
+The Usual Suspects,Crime,8.5,1200000.0,10200000.0,Hollywood,10200000.0
+12 Angry Men,Crime,9.0,971000.0,8739000.0,Hollywood,8739000.0
+The Green Mile,Crime,8.6,1500000.0,12900000.0,Hollywood,12900000.0
+The Dark Knight Rises,Crime,8.4,2000000.0,16800000.0,Hollywood,16800000.0
+No Country for Old Men,Crime,8.2,1200000.0,9840000.0,Hollywood,9840000.0
+John Wick,Crime,7.5,816000.0,6120000.0,Hollywood,6120000.0
+Goodfellas,Crime,8.7,1400000.0,12179999.999999998,Hollywood,12179999.999999998
+Hunting Season,Crime,5.7,4400.0,25080.0,Bollywood,25080.0
+Fargo,Crime,8.1,778000.0,6301800.0,Hollywood,6301800.0
+Nobody 2,Crime,6.3,73000.0,459900.0,Bollywood,459900.0
+Zodiac,Crime,7.7,663000.0,5105100.0,Hollywood,5105100.0
+Sicario,Crime,7.7,529000.0,4073300.0,Hollywood,4073300.0
+Avatar: Fire and Ash,Adventure,7.4,121000.0,895400.0,Bollywood,895400.0
+The Running Man,Adventure,6.4,71000.0,454400.0,Bollywood,454400.0
+Zootopia 2,Adventure,7.5,66000.0,495000.0,Bollywood,495000.0
+Dhurandhar,Adventure,8.5,103000.0,875500.0,Bollywood,875500.0
+Predator: Badlands,Adventure,7.3,89000.0,649700.0,Bollywood,649700.0
+Greenland 2: Migration,Adventure,5.5,7100.0,39050.0,Bollywood,39050.0
+The Lord of the Rings: The Fellowship of the Ring,Adventure,8.9,2200000.0,19580000.0,Hollywood,19580000.0
+Tron: Ares,Adventure,6.2,67000.0,415400.0,Bollywood,415400.0
+No Time to Die,Adventure,7.3,481000.0,3511300.0,Others,3511300.0
+Anaconda,Adventure,5.9,19000.0,112100.0,Bollywood,112100.0
+Interstellar,Adventure,8.7,2500000.0,21750000.0,Hollywood,21750000.0
+KPop Demon Hunters,Adventure,7.5,115000.0,862500.0,Bollywood,862500.0
+Inception,Adventure,8.8,2800000.0,24640000.000000004,Hollywood,24640000.000000004
+Superman,Adventure,7.1,384000.0,2726400.0,Others,2726400.0
+Jurassic World: Rebirth,Adventure,5.8,175000.0,1015000.0,Bollywood,1015000.0
+Greenland,Adventure,6.4,160000.0,1024000.0,Bollywood,1024000.0
+The Fantastic Four: First Steps,Adventure,6.8,240000.0,1632000.0,Others,1632000.0
+Sirat,Adventure,7.0,16000.0,112000.0,Bollywood,112000.0
+Avatar,Adventure,7.9,1500000.0,11850000.0,Hollywood,11850000.0
+Inglourious Basterds,Adventure,8.4,1800000.0,15120000.0,Hollywood,15120000.0
+Avatar: The Way of Water,Adventure,7.5,598000.0,4485000.0,Hollywood,4485000.0
+Harry Potter and the Sorcerer's Stone,Adventure,7.7,940000.0,7238000.0,Hollywood,7238000.0
+Mission: Impossible - The Final Reckoning,Adventure,7.2,213000.0,1533600.0,Others,1533600.0
+Casino Royale,Adventure,8.0,737000.0,5896000.0,Hollywood,5896000.0
+The Lord of the Rings: The Return of the King,Adventure,9.0,2100000.0,18900000.0,Hollywood,18900000.0
+The Hunger Games,Adventure,7.2,1100000.0,7920000.0,Hollywood,7920000.0
+The SpongeBob Movie: Search for SquarePants,Adventure,5.7,5800.0,33060.0,Bollywood,33060.0
+The Lord of the Rings: The Two Towers,Adventure,8.8,1900000.0,16720000.000000002,Hollywood,16720000.000000002
+Eden,Adventure,6.5,38000.0,247000.0,Bollywood,247000.0
+Zootopia,Adventure,8.0,619000.0,4952000.0,Hollywood,4952000.0
+How to Train Your Dragon,Adventure,7.7,120000.0,924000.0,Bollywood,924000.0
+Spectre,Adventure,6.8,492000.0,3345600.0,Others,3345600.0
+The Tomorrow War,Adventure,6.6,251000.0,1656600.0,Others,1656600.0
+The Magnificent Seven,Adventure,7.7,110000.0,847000.0,Bollywood,847000.0
+Thunderbolts*,Adventure,7.1,261000.0,1853100.0,Others,1853100.0
+Masters of the Universe,Adventure,5.4,48000.0,259200.00000000003,Bollywood,259200.00000000003
+Dune: Part Two,Adventure,8.4,712000.0,5980800.0,Hollywood,5980800.0
+Pirates of the Caribbean: The Curse of the Black Pearl,Adventure,8.1,1300000.0,10530000.0,Hollywood,10530000.0
+Gladiator,Adventure,8.5,1800000.0,15300000.0,Hollywood,15300000.0
+Back to the Future,Adventure,8.5,1400000.0,11900000.0,Hollywood,11900000.0
+The Magnificent Seven,Adventure,6.9,243000.0,1676700.0,Others,1676700.0
+The Hunger Games: The Ballad of Songbirds & Snakes,Adventure,6.6,177000.0,1168200.0,Bollywood,1168200.0
+Independence Day,Adventure,7.0,641000.0,4487000.0,Hollywood,4487000.0
+The Gorge,Adventure,6.7,161000.0,1078700.0,Bollywood,1078700.0
+28 Years Later: The Bone Temple,Sci-Fi,7.7,30000.0,231000.0,Bollywood,231000.0
+Mercy,Sci-Fi,6.2,5900.0,36580.0,Bollywood,36580.0
+Bugonia,Sci-Fi,7.4,121000.0,895400.0,Bollywood,895400.0
+Frankenstein,Sci-Fi,7.5,249000.0,1867500.0,Others,1867500.0
+Avatar: Fire and Ash,Sci-Fi,7.4,121000.0,895400.0,Bollywood,895400.0
+The Running Man,Sci-Fi,6.4,71000.0,454400.0,Bollywood,454400.0
+28 Years Later,Sci-Fi,6.6,189000.0,1247400.0,Bollywood,1247400.0
+Predator: Badlands,Sci-Fi,7.3,89000.0,649700.0,Bollywood,649700.0
+Greenland 2: Migration,Sci-Fi,5.5,7100.0,39050.0,Bollywood,39050.0
+Tron: Ares,Sci-Fi,6.2,67000.0,415400.0,Bollywood,415400.0
+28 Days Later,Sci-Fi,7.5,535000.0,4012500.0,Hollywood,4012500.0
+Interstellar,Sci-Fi,8.7,2500000.0,21750000.0,Hollywood,21750000.0
+The Substance,Sci-Fi,7.2,398000.0,2865600.0,Others,2865600.0
+The Life of Chuck,Sci-Fi,7.3,56000.0,408800.0,Bollywood,408800.0
+Inception,Sci-Fi,8.8,2800000.0,24640000.000000004,Hollywood,24640000.000000004
+Superman,Sci-Fi,7.1,384000.0,2726400.0,Others,2726400.0
+Jurassic World: Rebirth,Sci-Fi,5.8,175000.0,1015000.0,Bollywood,1015000.0
+The Fantastic Four: First Steps,Sci-Fi,6.8,240000.0,1632000.0,Others,1632000.0
+Avatar,Sci-Fi,7.9,1500000.0,11850000.0,Hollywood,11850000.0
+Avatar: The Way of Water,Sci-Fi,7.5,598000.0,4485000.0,Hollywood,4485000.0
+28 Weeks Later,Sci-Fi,6.8,356000.0,2420800.0,Others,2420800.0
+The Prestige,Sci-Fi,8.5,1600000.0,13600000.0,Hollywood,13600000.0
+The Hunger Games,Sci-Fi,7.2,1100000.0,7920000.0,Hollywood,7920000.0
+The Toxic Avenger,Sci-Fi,5.9,15000.0,88500.0,Bollywood,88500.0
+The Tomorrow War,Sci-Fi,6.6,251000.0,1656600.0,Others,1656600.0
+Poor Things,Sci-Fi,7.8,384000.0,2995200.0,Others,2995200.0
+Thunderbolts*,Sci-Fi,7.1,261000.0,1853100.0,Others,1853100.0
+Masters of the Universe,Sci-Fi,5.4,48000.0,259200.00000000003,Bollywood,259200.00000000003
+Cold Storage,Sci-Fi,7.8,99.0,772.1999999999999,Bollywood,772.1999999999999
+Afterburn,Sci-Fi,4.6,5600.0,25759.999999999996,Bollywood,25759.999999999996
+Dune: Part Two,Sci-Fi,8.4,712000.0,5980800.0,Hollywood,5980800.0
+The Matrix,Sci-Fi,8.7,2200000.0,19140000.0,Hollywood,19140000.0
+Back to the Future,Sci-Fi,8.5,1400000.0,11900000.0,Hollywood,11900000.0
+The Hunger Games: The Ballad of Songbirds & Snakes,Sci-Fi,6.6,177000.0,1168200.0,Bollywood,1168200.0
+Independence Day,Sci-Fi,7.0,641000.0,4487000.0,Hollywood,4487000.0
+The Gorge,Sci-Fi,6.7,161000.0,1078700.0,Bollywood,1078700.0
+Avengers: Endgame,Sci-Fi,8.4,1400000.0,11760000.0,Hollywood,11760000.0
+Dune: Part One,Sci-Fi,8.0,1000000.0,8000000.0,Hollywood,8000000.0
+The Shrinking Man,Sci-Fi,6.0,671.0,4026.0,Bollywood,4026.0
+2001: A Space Odyssey,Sci-Fi,8.3,775000.0,6432500.000000001,Hollywood,6432500.000000001
+Lucy,Sci-Fi,6.4,574000.0,3673600.0,Hollywood,3673600.0
+Mickey 17,Sci-Fi,6.7,228000.0,1527600.0,Others,1527600.0
+Avatar: Fire and Ash,Animation,7.4,121000.0,895400.0,Anime,895400.0
+Zootopia 2,Animation,7.5,66000.0,495000.0,Anime,495000.0
+KPop Demon Hunters,Animation,7.5,115000.0,862500.0,Anime,862500.0
+Avatar: The Way of Water,Animation,7.5,598000.0,4485000.0,Anime,4485000.0
+The SpongeBob Movie: Search for SquarePants,Animation,5.7,5800.0,33060.0,Anime,33060.0
+Zootopia,Animation,8.0,619000.0,4952000.0,Anime,4952000.0
+Spider-Man: Across the Spider-Verse,Animation,8.5,506000.0,4301000.0,Anime,4301000.0
+Chainsaw Man - The Movie: Reze Arc,Animation,8.4,43000.0,361200.0,Anime,361200.0
+David,Animation,7.2,3600.0,25920.0,Anime,25920.0
+Arco,Animation,7.5,1200.0,9000.0,Anime,9000.0
+Spirited Away,Animation,8.6,953000.0,8195800.0,Anime,8195800.0
+Spider-Man: Into the Spider-Verse,Animation,8.4,773000.0,6493200.0,Anime,6493200.0
+Elio,Animation,6.7,38000.0,254600.0,Anime,254600.0
+Jujutsu Kaisen: Execution,Animation,6.5,4200.0,27300.0,Anime,27300.0
+The Wild Robot,Animation,8.2,213000.0,1746599.9999999998,Anime,1746599.9999999998
+Demon Slayer: Kimetsu no Yaiba Infinity Castle,Animation,8.4,62000.0,520800.0,Anime,520800.0
+The Lion King,Animation,8.5,1200000.0,10200000.0,Anime,10200000.0
+Ratatouille,Animation,8.1,928000.0,7516800.0,Anime,7516800.0
+Grave of the Fireflies,Animation,8.5,376000.0,3196000.0,Anime,3196000.0
+Madagascar,Animation,6.9,474000.0,3270600.0,Anime,3270600.0
+Your Name.,Animation,8.4,383000.0,3217200.0,Anime,3217200.0
+Cars,Animation,7.3,526000.0,3839800.0,Anime,3839800.0
+How to Train Your Dragon,Animation,8.1,882000.0,7144200.0,Anime,7144200.0
+The Bad Guys 2,Animation,7.0,24000.0,168000.0,Anime,168000.0
+Gabby's Dollhouse: The Movie,Animation,5.5,2300.0,12650.0,Anime,12650.0
+Toy Story,Animation,8.3,1200000.0,9960000.0,Anime,9960000.0
+Flow,Animation,7.9,121000.0,955900.0,Anime,955900.0
+Frozen,Animation,7.4,706000.0,5224400.0,Anime,5224400.0
+Hercules,Animation,7.3,276000.0,2014800.0,Anime,2014800.0
+Finding Nemo,Animation,8.2,1200000.0,9840000.0,Anime,9840000.0
+Coco,Animation,8.4,693000.0,5821200.0,Anime,5821200.0
+WALL·E,Animation,8.4,1300000.0,10920000.0,Anime,10920000.0
+Up,Animation,8.3,1200000.0,9960000.0,Anime,9960000.0
+The Incredibles,Animation,8.0,889000.0,7112000.0,Anime,7112000.0
+Shrek,Animation,7.9,801000.0,6327900.0,Anime,6327900.0
+Beauty and the Beast,Animation,8.0,502000.0,4016000.0,Anime,4016000.0
+Wreck-It Ralph,Animation,7.7,493000.0,3796100.0,Anime,3796100.0
+Howl's Moving Castle,Animation,8.2,505000.0,4140999.9999999995,Anime,4140999.9999999995
+Little Amélie or the Character of Rain,Animation,7.6,2000.0,15200.0,Anime,15200.0
+Princess Mononoke,Animation,8.3,478000.0,3967400.0000000005,Anime,3967400.0000000005
+The Super Mario Bros. Movie,Animation,7.0,283000.0,1981000.0,Anime,1981000.0
+Inside Out,Animation,8.1,902000.0,7306200.0,Anime,7306200.0
+"Monsters, Inc.",Animation,8.1,1100000.0,8910000.0,Anime,8910000.0
+Tangled,Animation,7.7,539000.0,4150300.0,Anime,4150300.0
+Predator: Killer of Killers,Animation,7.4,57000.0,421800.0,Anime,421800.0
+A Bug's Life,Animation,7.2,335000.0,2412000.0,Anime,2412000.0
+In Your Dreams,Animation,6.5,6100.0,39650.0,Anime,39650.0
+Sinners,Horror,7.5,376000.0,2820000.0,Others,2820000.0
+28 Years Later: The Bone Temple,Horror,7.7,30000.0,231000.0,Bollywood,231000.0
+Return to Silent Hill,Horror,4.2,4700.0,19740.0,Bollywood,19740.0
+Frankenstein,Horror,7.5,249000.0,1867500.0,Others,1867500.0
+28 Years Later,Horror,6.6,189000.0,1247400.0,Bollywood,1247400.0
+Send Help,Horror,7.1,496.0,3521.6,Bollywood,3521.6
+Weapons,Horror,7.4,298000.0,2205200.0,Others,2205200.0
+Primate,Horror,6.2,7100.0,44020.0,Bollywood,44020.0
+Heel,Horror,6.6,231.0,1524.6,Bollywood,1524.6
+Dust Bunny,Horror,6.6,7300.0,48180.0,Bollywood,48180.0
+28 Days Later,Horror,7.5,535000.0,4012500.0,Hollywood,4012500.0
+Dracula,Horror,6.2,23000.0,142600.0,Bollywood,142600.0
+The Substance,Horror,7.2,398000.0,2865600.0,Others,2865600.0
+Mother of Flies,Horror,5.6,937.0,5247.2,Bollywood,5247.2
+Silent Hill,Horror,6.5,259000.0,1683500.0,Others,1683500.0
+Black Phone 2,Horror,6.1,49000.0,298900.0,Bollywood,298900.0
+The Long Walk,Horror,6.7,95000.0,636500.0,Bollywood,636500.0
+Bone Lake,Horror,5.6,10000.0,56000.0,Bollywood,56000.0
+Together,Horror,6.7,64000.0,428800.0,Bollywood,428800.0
+The Ugly Stepsister,Horror,7.0,36000.0,252000.0,Bollywood,252000.0
+28 Weeks Later,Horror,6.8,356000.0,2420800.0,Others,2420800.0
+Killer Whale,Horror,3.6,2000.0,7200.0,Bollywood,7200.0
+Five Nights at Freddy's 2,Horror,5.2,31000.0,161200.0,Bollywood,161200.0
+The Toxic Avenger,Horror,5.9,15000.0,88500.0,Bollywood,88500.0
+Bring Her Back,Horror,7.1,110000.0,781000.0,Bollywood,781000.0
+The Silence of the Lambs,Horror,8.6,1700000.0,14620000.0,Hollywood,14620000.0
+Keeper,Horror,5.5,14000.0,77000.0,Bollywood,77000.0
+Cold Storage,Horror,7.8,99.0,772.1999999999999,Bollywood,772.1999999999999
+It,Horror,7.3,685000.0,5000500.0,Hollywood,5000500.0
+The Gorge,Horror,6.7,161000.0,1078700.0,Bollywood,1078700.0
+He's Watching You,Horror,4.7,200.0,940.0,Bollywood,940.0
+Him,Horror,5.0,20000.0,100000.0,Bollywood,100000.0
+The Black Phone,Horror,6.9,256000.0,1766400.0,Others,1766400.0
+Get Out,Horror,7.8,802000.0,6255600.0,Hollywood,6255600.0
+Eden Lake,Horror,6.7,107000.0,716900.0,Bollywood,716900.0
+Nosferatu,Horror,7.1,258000.0,1831800.0,Others,1831800.0
+The Shining,Horror,8.4,1200000.0,10080000.0,Hollywood,10080000.0
+Heretic,Horror,7.0,215000.0,1505000.0,Others,1505000.0
+The Astronaut,Horror,4.7,5400.0,25380.0,Bollywood,25380.0
+Alien: Romulus,Horror,7.1,280000.0,1988000.0,Others,1988000.0
+The Conjuring: Last Rites,Horror,6.2,90000.0,558000.0,Bollywood,558000.0
+Hereditary,Horror,7.3,447000.0,3263100.0,Others,3263100.0
+Good Boy,Horror,6.1,27000.0,164700.0,Bollywood,164700.0
+The Menu,Horror,7.2,488000.0,3513600.0,Others,3513600.0
+Whistle,Horror,6.0,249.0,1494.0,Bollywood,1494.0
+Abigail,Horror,6.5,113000.0,734500.0,Bollywood,734500.0
+Kidnapped: Elizabeth Smart,Documentary,6.7,2600.0,17420.0,Bollywood,17420.0
+The Moment,Documentary,5.4,128.0,691.2,Bollywood,691.2
+Free Solo,Documentary,8.1,85000.0,688500.0,Bollywood,688500.0
+The Perfect Neighbor,Documentary,7.1,22000.0,156200.0,Bollywood,156200.0
+Mr. Nobody Against Putin,Documentary,7.6,2500.0,19000.0,Bollywood,19000.0
+Secret Mall Apartment,Documentary,7.1,1700.0,12070.0,Bollywood,12070.0
+Encounters at the End of the World,Documentary,7.7,20000.0,154000.0,Bollywood,154000.0
+The Alabama Solution,Documentary,7.9,2700.0,21330.0,Bollywood,21330.0
+Come See Me in the Good Light,Documentary,7.7,1400.0,10780.0,Bollywood,10780.0
+Cover-Up,Documentary,7.5,2600.0,19500.0,Bollywood,19500.0
+The Age of Disclosure,Documentary,6.8,4000.0,27200.0,Bollywood,27200.0
+Cutting Through Rocks,Documentary,7.6,259.0,1968.3999999999999,Bollywood,1968.3999999999999
+Song Sung Blue,Documentary,7.4,305.0,2257.0,Bollywood,2257.0
+Disneyland Handcrafted,Documentary,8.0,281.0,2248.0,Bollywood,2248.0
+The Smashing Machine,Documentary,7.6,2500.0,19000.0,Bollywood,19000.0
+Evil Influencer: The Jodi Hildebrandt Story,Documentary,6.1,3100.0,18910.0,Bollywood,18910.0
+The History of Concrete,Documentary,7.1,12.0,85.19999999999999,Bollywood,85.19999999999999
+2000 Meters to Andriivka,Documentary,8.4,2700.0,22680.0,Bollywood,22680.0
+Viva Verdi!,Documentary,6.8,68.0,462.4,Bollywood,462.4
+One Last Adventure: The Making of Stranger Things 5,Documentary,7.2,2800.0,20160.0,Bollywood,20160.0
+Diane Warren: Relentless,Documentary,6.6,335.0,2211.0,Bollywood,2211.0
+The Alpinist,Documentary,7.9,17000.0,134300.0,Bollywood,134300.0
+The Lake,Documentary,8.5,9.0,76.5,Bollywood,76.5
+EPiC: Elvis Presley in Concert,Documentary,8.1,138.0,1117.8,Bollywood,1117.8
+Orwell: 2+2=5,Documentary,6.8,914.0,6215.2,Bollywood,6215.2
+No Other Land,Documentary,8.2,33000.0,270600.0,Bollywood,270600.0
+John Candy: I Like Me,Documentary,8.0,11000.0,88000.0,Bollywood,88000.0
+Murder in Monaco,Documentary,6.5,2800.0,18200.0,Bollywood,18200.0
+Grizzly Man,Documentary,7.7,67000.0,515900.0,Bollywood,515900.0
+Predators,Documentary,6.6,2200.0,14520.0,Bollywood,14520.0
+The Thinking Game,Documentary,7.7,1400.0,10780.0,Bollywood,10780.0
+"It's Never Over, Jeff Buckley",Documentary,7.7,2000.0,15400.0,Bollywood,15400.0
+Standout: The Ben Kjar Story,Documentary,9.4,56.0,526.4,Bollywood,526.4
+Dear Zachary: A Letter to a Son About His Father,Documentary,8.5,45000.0,382500.0,Bollywood,382500.0
+Queen of Chess,Documentary,7.8,7.0,54.6,Bollywood,54.6
+White Man Walking,Documentary,6.3,118.0,743.4,Bollywood,743.4
+The Act of Killing,Documentary,8.2,44000.0,360799.99999999994,Bollywood,360799.99999999994
+Becoming Led Zeppelin,Documentary,7.5,8000.0,60000.0,Bollywood,60000.0
+I'm Chevy Chase and You're Not,Documentary,6.9,1200.0,8280.0,Bollywood,8280.0
+20 Days in Mariupol,Documentary,8.6,43000.0,369800.0,Bollywood,369800.0
+Antiheroine,Documentary,6.8,6.0,40.8,Bollywood,40.8
+Inside Job,Documentary,8.2,82000.0,672399.9999999999,Bollywood,672399.9999999999
+Fiume o morte!,Documentary,8.1,1000.0,8100.0,Bollywood,8100.0
+The Tale of Silyan,Documentary,7.4,547.0,4047.8,Bollywood,4047.8
+The AI Doc: Or How I Became an Apocaloptimist,Documentary,8.3,6.0,49.800000000000004,Bollywood,49.800000000000004
+My Octopus Teacher,Documentary,8.1,70000.0,567000.0,Bollywood,567000.0
+The Dawn Wall,Documentary,8.1,22000.0,178200.0,Bollywood,178200.0
+They Shall Not Grow Old,Documentary,8.2,40000.0,328000.0,Bollywood,328000.0
